@@ -1,0 +1,19 @@
+{
+  "name": "apirestproject",
+  "version": "1.0.0",
+  "description": "A project created in api rest course at platzi",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BIEH01/apiRestProject.git"
+  },
+  "author": "BIEH01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BIEH01/apiRestProject/issues"
+  },
+  "homepage": "https://github.com/BIEH01/apiRestProject#readme"
+}
